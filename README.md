@@ -27,7 +27,7 @@ Based on the inspiration above, I found an open-source code on Codepen. A user c
 ![coding image](readmeImage/WechatIMG1655.jpg)
 [reference link](https://codepen.io/owls/pen/vvbxYQ)
 
-Full JS code
+Full JS code from the reference
 ```
 const width = window.innerWidth; //set up the width and height of the canvas
 const height = window.innerHeight;
@@ -128,7 +128,10 @@ window.addEventListener('resize', () => {
 });
 ```
 
-This code uses PIXI.js for rendering, and generates a trail of images on the canvas through the movement of the mouse, similar to the "brush" effect. Specifically, when you move the mouse, the image will follow the mouse track, and multiple image instances will be generated to form a gradual track effect. This code is suitable for some real-time interactive visual effects, such as dynamic image smear, glitch art effects, etc.
+This code uses PIXI.js for rendering, and generates a trail of images on the canvas through the movement of the mouse, similar to the "brush" effect. Specifically, when you move the mouse, the image will follow the mouse track, and multiple image instances will be generated to form a gradual track effect. This code is suitable for some real-time interactive visual effects, such as dynamic image smear, glitch art effects, etc. 
+
+However, the final effect produced by this code is still slightly different from the second artwork. We might need to adjust the distance between each image as the mouse moves.
+
 
 
 
