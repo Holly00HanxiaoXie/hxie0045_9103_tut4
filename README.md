@@ -1,5 +1,5 @@
 # IDEA9103_Quiz 8
-#### Part 1: Imaging Technique Inspiration
+### Part 1: Imaging Technique Inspiration
 
 I searched two similar artworks which inspired me a lot. The first artwork is a static deconstructed image, designed by a German design studio Schultzschultzgrafik, using the software Processing. 
 
@@ -20,7 +20,7 @@ In the second method, the image follows the mouse trail, creating a tailing effe
 ![second artwork image](readmeImage/WechatIMG1654.jpg)
 [reference link](https://lenaweber.com/archives/357)
 
-#### Part 2: Coding Technique Exploration
+### Part 2: Coding Technique Exploration
 
 Based on the inspiration above, I found an open-source code on Codepen. A user called Owls Department shared the code, which can achieve the similar image trail effect seen in the second artwork.
 
