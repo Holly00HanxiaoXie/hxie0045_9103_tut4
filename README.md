@@ -1,4 +1,4 @@
-# hxie0045_9103_tut4
+# IDEA9103_Quiz 8
 #### Part 1: Imaging Technique Inspiration
 
 I searched two similar artworks which inspired me a lot. The first artwork is a static deconstructed image, designed by a German design studio Schultzschultzgrafik, using the software Processing. 
